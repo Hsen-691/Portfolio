@@ -36,6 +36,7 @@ This portfolio presents professional experience, skills, certifications, and sel
 4. Student Task Manager — https://github.com/Hsen-691/Student-Task-Manager
 5. Inventory App — https://github.com/Hsen-691/inventory_app
 6. Job Finding Dashboard — https://github.com/Hsen-691/Job-Finding-Dashboard
+7. Money Exchange — https://github.com/Hsen-691/Money-Exchange
 
 ## Run Locally
 
