@@ -39,6 +39,8 @@ This portfolio presents professional experience, skills, certifications, and sel
 7. Money Exchange — https://github.com/Hsen-691/Money-Exchange
 8. SkyLink Airport Flight Booking System — https://github.com/Hsen-691/SkyLink-Airport-Flight-Booking-System
 9. Maze Rush Online — https://github.com/Hsen-691/Maze-Rush-Online
+10. AI Powered Recruitment — https://github.com/Hsen-691/AI-Powered-Recruitment
+11. TechDesk Pro — https://github.com/Hsen-691/Techdesk-pro
 
 ## Run Locally
 
@@ -56,8 +58,5 @@ assets/cv/Hussein_Adib_CV.pdf
 
 Email: hsenadib691@gmail.com  
 Phone: +961 76 814 691  
-LinkedIn: https://www.linkedin.com/in/hussein-adib-8134842b3  
+LinkedIn: https://www.linkedin.com/in/hsenadib/  
 GitHub: https://github.com/Hsen-691
-
-10. AI Powered Recruitment — https://github.com/Hsen-691/AI-Powered-Recruitment
-11. TechDesk Pro — https://github.com/Hsen-691/Techdesk-pro
