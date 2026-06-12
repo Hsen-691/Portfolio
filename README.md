@@ -58,3 +58,6 @@ Email: hsenadib691@gmail.com
 Phone: +961 76 814 691  
 LinkedIn: https://www.linkedin.com/in/hussein-adib-8134842b3  
 GitHub: https://github.com/Hsen-691
+
+10. AI Powered Recruitment — https://github.com/Hsen-691/AI-Powered-Recruitment
+11. TechDesk Pro — https://github.com/Hsen-691/Techdesk-pro
